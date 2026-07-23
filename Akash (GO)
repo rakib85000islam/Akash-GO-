@@ -29,3 +29,18 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723-audio_113532_eng=113200-vid
 https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/1725-audio_113552_eng=113200-video=2202800.m3u8
 #EXTINF:-1 tvg-name="Channel 30" group-title="Uncategorized",Channel 9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729-audio_113592_eng=113200-video=2202800.m3u8
+#EXTINF:-1 group-title="-",STAR GOLD HD - Rs 19.00
+http://66.102.126.10:8000/play/a00f/index.m3u8
+#EXTINF:-1 group-title="-",Star Gold 2 - Rs 3.00
+http://66.102.126.10:8000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="-",Star Gold 2 HD
+http://66.102.126.10:8000/play/a077/index.m3u8
+http://66.102.126.10:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="-",Star Gold Select HD - Rs 8.00
+http://66.102.126.10:8000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="-",Star Gold Thrills - Rs 2.00
+http://66.102.126.10:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="-",Zee Cinema HD
+http://66.102.126.10:8000/play/a06w/index.m3u8
+#EXTINF:-1 group-title="-",SET HD - Rs 19.00
+http://66.102.126.10:8000/play/a005/index.m3u8
