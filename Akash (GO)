@@ -49,7 +49,7 @@ http://66.102.126.10:8000/play/a005/index.m3u8
 #EXTINF:-1,Star Jalsha HD
 https://live.shamim-iptv.workers.dev/STARJOLSHAHD.m3u8
 #EXTINF:-1,Jalsha Movies HD-1
-https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/refs/heads/main/Channels_data.json
+http://103.151.61.12/Jalsha_Movie/tracks-v1a1/mono.m3u8?token=i7bZaZWaFrSIE0
 #EXTINF:-1,Jalsha Movies HD
 https://live.shamim-iptv.workers.dev/JALSHAMOVIESHD.m3u8
 #EXTINF:-1,Zee Bangla Sonar HD
